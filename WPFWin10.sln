@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlurBehindDemo", "Source\BlurBehindDemo\BlurBehindDemo.csproj", "{CCB7A1CD-FA61-4B81-8234-4E532B1A6DB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFWin10", "Source\WPFWin10\WPFWin10.csproj", "{B447B24F-AB2D-4B5A-97A8-E4A915CBD536}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFWin10Demo", "Source\WPFWin10Demo\WPFWin10Demo.csproj", "{92642D8E-4852-4D62-8D8C-F2476AA87E84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB7A1CD-FA61-4B81-8234-4E532B1A6DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB7A1CD-FA61-4B81-8234-4E532B1A6DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB7A1CD-FA61-4B81-8234-4E532B1A6DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB7A1CD-FA61-4B81-8234-4E532B1A6DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B447B24F-AB2D-4B5A-97A8-E4A915CBD536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B447B24F-AB2D-4B5A-97A8-E4A915CBD536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B447B24F-AB2D-4B5A-97A8-E4A915CBD536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B447B24F-AB2D-4B5A-97A8-E4A915CBD536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92642D8E-4852-4D62-8D8C-F2476AA87E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92642D8E-4852-4D62-8D8C-F2476AA87E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92642D8E-4852-4D62-8D8C-F2476AA87E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92642D8E-4852-4D62-8D8C-F2476AA87E84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
